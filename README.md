@@ -1,5 +1,5 @@
-Voice_A_Bot
-Voice_A_Bot is a comprehensive project designed to aid visually impaired individuals by providing real-time object detection and text-to-speech conversion. This bot utilizes state-of-the-art AI models to recognize objects, read text aloud, and support multiple languages.
+Vision_A_Bot
+Vision_A_Bot is a comprehensive project designed to aid visually impaired individuals by providing real-time object detection and text-to-speech conversion. This bot utilizes state-of-the-art AI models to recognize objects, read text aloud, and support multiple languages.
 
 Features
 Real-time Object Detection: Utilizes the YOLO model for accurate and efficient object detection.
